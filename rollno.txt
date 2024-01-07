@@ -1,0 +1,8 @@
+Tgis file stores all roll numbers
+123343
+456
+756453
+2322
+56545
+97675
+
